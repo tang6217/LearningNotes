@@ -1,4 +1,4 @@
-比较
+比较1
 
 wait 、notify、notifyall必须配合monitor对象一起使用，而park、unpark不需要
 
